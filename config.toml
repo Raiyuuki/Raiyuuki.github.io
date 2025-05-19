@@ -1,0 +1,10 @@
+theme = "hugo-theme-relearn"
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Ray's Recipe's"
+ignoreLogs = ['warning-partial-superfluous-prefix']
+home = [ "HTML", "RSS", "JSON" ]
+section = [ "HTML" ]
+taxonomy = [ "HTML" ]
+[params]
+  themeVariant = 'ray_vermillion'

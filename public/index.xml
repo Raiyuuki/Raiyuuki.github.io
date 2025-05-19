@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ray&#39;s Recipe Collection :: Ray&#39;s Recipe&#39;s</title>
+    <link>http://localhost:1313/index.html</link>
+    <description>Welcome! this is just a neat little Page to store my Recipes, and cravings. to the left you will see the different categories. I will add my Recipes slowly but surely&#xA;my discord is getting full so i need a place to store them xd</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filipino</title>
+      <link>http://localhost:1313/filipino/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/filipino/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Food</title>
+      <link>http://localhost:1313/food/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/food/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Indian</title>
+      <link>http://localhost:1313/indian/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/indian/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Japanese</title>
+      <link>http://localhost:1313/japanese/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/japanese/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Korean</title>
+      <link>http://localhost:1313/korean/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/korean/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+  </channel>
+</rss>

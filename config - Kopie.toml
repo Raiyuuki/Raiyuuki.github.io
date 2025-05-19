@@ -1,0 +1,8 @@
+theme = "hugo-theme-relearn"
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+ignoreLogs = ['warning-partial-superfluous-prefix']
+home = [ "HTML", "RSS", "JSON" ]
+section = [ "HTML" ]
+taxonomy = [ "HTML" ]
