@@ -1,5 +1,5 @@
 +++
-title = "Food"
+title = "Snacks"
 type = "chapter"
 weight = 1
 +++
