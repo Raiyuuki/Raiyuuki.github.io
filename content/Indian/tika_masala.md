@@ -40,7 +40,7 @@ if you have fresh garlic / ginger, use those instead!
 
 ###### 2nd. Add some more oil, and add the onions to cook them down, once done you can add your garlic and ginger if you have fresh ones.
 
-###### 3rd. Add the Tomato sauce and cook it down aswell, 2-3 minutes should do the trick. season this with! 0.5 Tsp Tumeric, 1-2 Tsp Koriander powder, 1 Tsp Cumin Powder and 0.5 - 2 Tsp Chiili powder.
+###### 3rd. Add the Tomato sauce and cook it down aswell, 2-3 minutes should do the trick. season this with! 0.5 Tsp Tumeric, 1-2 Tsp Coriander powder, 1 Tsp Cumin Powder and 0.5 - 2 Tsp Chiili powder.
 
 ###### 4th. now that the sauce cooked down and the spices unfolded, add the chicken, mix well and add around 600-900ml of water. let it cook for 10 minutes (add a Tbsp of Garam Masala)
 
@@ -54,6 +54,6 @@ add some salt / chili powder to your linking!
 
 | Spices used in the recepie |
 | :--- |
-| Garlic Powder, Ginger Powder, Koriander Powder, Garam Masala, Salt, Pepper, Chili Powder, Cumin Powder, Sugar |
+| Garlic Powder, Ginger Powder, Coriander Powder, Garam Masala, Salt, Pepper, Chili Powder, Cumin Powder, Sugar |
 
 if you want a visual guide to the recepie the Channel [With Wendy and Shannon](https://www.youtube.com/watch?v=Cr5dn48vER8) has a great video.
