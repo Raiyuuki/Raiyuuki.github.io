@@ -48,3 +48,11 @@
     name = 'Mermaid'
   [params.relearn.dependencies.openapi]
     name = 'OpenApi'
+
+[params]
+  [[params.boxStyle]]
+    color = 'rgb(0, 121, 87)'  
+    i18n = ''
+    icon = 'rainbow'
+    identifier = 'foreword'
+    title = 'Foreword'
