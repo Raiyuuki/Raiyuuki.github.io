@@ -3,7 +3,7 @@
   <channel>
     <title>Indian :: Ray&#39;s Recipe&#39;s</title>
     <link>http://localhost:1313/indian/index.html</link>
-    <description>Foreword&#xD;A collection of Indian Recipe’s. mostly Currys or Nanns&#xA;Currys Chicken Tikka Masala Naan</description>
+    <description>Foreword&#xD;A collection of Indian Recipe’s. mostly Curry’s or Naan&#xA;Curry’s Chicken Tikka Masala Naan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/indian/index.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>http://localhost:1313/indian/tika_masala/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/indian/tika_masala/index.html</guid>
-      <description>Foreword&#xD;This is the Recepie i use to make Chicken tikka masala. as always, keep in mind i go alot by feeling! adjust it to your liking.&#xA;Tip&#xD;if you want to make this, marinate the chicken for a day for the best result! or at least a couple of hours&#xA;Shopping list!</description>
+      <description>Foreword&#xD;This is the Recipe i use to make Chicken Tikka Masala. as always, keep in mind i go alot by feeling! adjust it to your liking. the list of spices used will be at the very end if you dont have them at home!&#xA;Tip&#xD;if you want to make this, marinate the chicken for a day for the best result! or at least a couple of hours</description>
     </item>
   </channel>
 </rss>

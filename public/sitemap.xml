@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/airfry/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/baking/index.html</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/indian/tika_masala/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/filipino/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/food/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/japanese/index.html</loc>
@@ -22,7 +22,19 @@
     <loc>http://localhost:1313/korean/placeholder/index.html</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/sauces_n_condiments/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/snacks/index.html</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/filipino/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/filipino/ginataang/ginataang_manok/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/indian/index.html</loc>

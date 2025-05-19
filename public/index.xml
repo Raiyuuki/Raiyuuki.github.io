@@ -8,17 +8,17 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Filipino</title>
-      <link>http://localhost:1313/filipino/index.html</link>
+      <title>Airfry</title>
+      <link>http://localhost:1313/airfry/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/filipino/index.html</guid>
+      <guid>http://localhost:1313/airfry/index.html</guid>
       <description>This is a new chapter.</description>
     </item>
     <item>
-      <title>Food</title>
-      <link>http://localhost:1313/food/index.html</link>
+      <title>Baking</title>
+      <link>http://localhost:1313/baking/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/food/index.html</guid>
+      <guid>http://localhost:1313/baking/index.html</guid>
       <description>This is a new chapter.</description>
     </item>
     <item>
@@ -36,11 +36,32 @@
       <description>This is a new chapter.</description>
     </item>
     <item>
+      <title>Sauces n Condiments</title>
+      <link>http://localhost:1313/sauces_n_condiments/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sauces_n_condiments/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Snacks</title>
+      <link>http://localhost:1313/snacks/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snacks/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Filipino</title>
+      <link>http://localhost:1313/filipino/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/filipino/index.html</guid>
+      <description>Foreword&#xD;A collection of Filipino Recipe’s. Pork and Coconut, and intense savoury goodness are normal here! personally my favorite food with japanese&#xA;Ginataang Adobo Fried BBQ</description>
+    </item>
+    <item>
       <title>Indian</title>
       <link>http://localhost:1313/indian/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/indian/index.html</guid>
-      <description>Foreword&#xD;A collection of Indian Recipe’s. mostly Currys or Nanns&#xA;Currys Chicken Tikka Masala Naan</description>
+      <description>Foreword&#xD;A collection of Indian Recipe’s. mostly Curry’s or Naan&#xA;Curry’s Chicken Tikka Masala Naan</description>
     </item>
   </channel>
 </rss>
