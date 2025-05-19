@@ -1,7 +1,14 @@
 +++
 title = "Indian"
 type = "chapter"
-weight = 1
 +++
 
-This is a new chapter.
+{{% notice foreword %}}
+A collection of Indian Recipe's. mostly Currys or Nanns
+{{% /notice %}}
+
+## Currys
+
+###### [Chicken Tikka Masala](https://raiyuuki.github.io/indian/tika_masala/index.html)
+
+## Naan
