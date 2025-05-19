@@ -42,9 +42,9 @@ if you have fresh garlic / ginger, use those instead!
 
 ###### 3rd. Add the Tomato sauce and cook it down aswell, 2-3 minutes should do the trick. season this with! 0.5 Tsp Tumeric, 1-2 Tsp Koriander powder, 1 Tsp Cumin Powder and 0.5 - 2 Tsp Chiili powder.
 
-###### 4th. now that the sauce cooked down and the spices unfolded, add the chicken, mix well and add around 600-900ml of water. and let it cook for 10 minutes (add a Tbsp of Garam Masala)
+###### 4th. now that the sauce cooked down and the spices unfolded, add the chicken, mix well and add around 600-900ml of water. let it cook for 10 minutes (add a Tbsp of Garam Masala)
 
-###### 5th. and finally, sprnkle some sugar in, just a pinch and add the heavy cream. stir it around until it becomes nice and orange, time to taste!
+###### 5th. and finally, sprinkle some sugar in a pinch is enough then add the heavy cream. stir it around until it becomes nice and orange, time to taste!
 
 {{% notice Tip %}}
 add some salt / chili powder to your linking! 
