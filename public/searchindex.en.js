@@ -1,5 +1,13 @@
 var relearn_searchindex = [
   {
+    "breadcrumb": "Ray's Recipe Collection \u003e \rIndian",
+    "content": "Foreword\rThis is the Recepie i use to make Chicken tikka masala. as always, keep in mind i go alot by feeling! adjust it to your liking.",
+    "description": "Foreword\rThis is the Recepie i use to make Chicken tikka masala. as always, keep in mind i go alot by feeling! adjust it to your liking.",
+    "tags": [],
+    "title": "Chicken tikka masala",
+    "uri": "/indian/tika_masala/index.html"
+  },
+  {
     "breadcrumb": "Ray's Recipe Collection",
     "content": "This is a new chapter.",
     "description": "This is a new chapter.",

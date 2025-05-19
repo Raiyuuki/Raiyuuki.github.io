@@ -159,6 +159,8 @@
     --INTERNAL-MENU-WIDTH-L: var(--MENU-WIDTH-L, 18.75rem);
     --INTERNAL-MAIN-WIDTH-MAX: var(--MAIN-WIDTH-MAX, 81.25rem);
 
+    --INTERNAL-BOX-FOREWORD-color: var(--BOX-FOREWORD-color, rgb(0, 121, 87));
+    --INTERNAL-BOX-FOREWORD-TEXT-color: var(--BOX-FOREWORD-TEXT-color, var(--INTERNAL-BOX-TEXT-color));
 }
 body {
   line-height: 1.574;
