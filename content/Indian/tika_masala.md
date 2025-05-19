@@ -4,7 +4,7 @@ type = "Page"
 weight = 1
 +++
 {{% notice foreword %}}
- This is the Recepie i use to make Chicken tikka masala. as always, keep in mind i go alot by feeling! adjust it to your liking. the list of spices used will be at the very end if you dont have them at home!
+ This is the Recipe i use to make Chicken Tikka Masala. as always, keep in mind i go alot by feeling! adjust it to your liking. the list of spices used will be at the very end if you dont have them at home!
 {{% /notice %}}
 
 {{% notice Tip %}}
