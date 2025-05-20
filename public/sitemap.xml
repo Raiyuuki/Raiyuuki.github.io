@@ -10,6 +10,9 @@
     <loc>http://localhost:1313/indian/tika_masala/index.html</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/filipino/ginataang_manok/index.html</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/japanese/index.html</loc>
   </url>
   <url>
@@ -32,9 +35,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/filipino/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/filipino/ginataang/ginataang_manok/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/indian/index.html</loc>
