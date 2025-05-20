@@ -9,6 +9,7 @@ A collection of Filipino Recipe's. Pork and Coconut, and intense savoury goodnes
 
 ## Ginataang
 
+[Ginataang Manok](https://raiyuuki.github.io/filipino/ginataang_manok/index.html)
 
 ## Adobo
 

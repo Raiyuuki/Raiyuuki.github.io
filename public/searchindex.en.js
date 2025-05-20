@@ -88,6 +88,14 @@ var relearn_searchindex = [
     "uri": "/categories/index.html"
   },
   {
+    "breadcrumb": "Ray's Recipe Collection \u003e \rJapanese",
+    "content": "hahah?",
+    "description": "hahah?",
+    "tags": [],
+    "title": "Chicken Katsu Curry",
+    "uri": "/japanese/fried-chicken/index.html"
+  },
+  {
     "breadcrumb": "Ray's Recipe Collection",
     "content": "Foreword\rA collection of Filipino Recipe’s. Pork and Coconut, and intense savoury goodness are normal here! personally my favorite food with japanese\nGinataang Adobo Fried BBQ",
     "description": "Foreword\rA collection of Filipino Recipe’s. Pork and Coconut, and intense savoury goodness are normal here! personally my favorite food with japanese\nGinataang Adobo Fried BBQ",
