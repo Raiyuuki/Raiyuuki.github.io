@@ -8,18 +8,18 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/korean/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Gochujang Shrimp Pasta with Cream Sauce</title>
+      <link>http://localhost:1313/korean/gochujang-shrimp-cream-sauce/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/korean/gochujang-shrimp-cream-sauce/index.html</guid>
+      <description>Foreword&#xD;This Recipe is for a simple but Flavourful cream sauce! its best with Shrimp, but you could do it with chicken.&#xA;Shopping list! Shrimps Gochujang Paste Heavy Cream the Rest is prolly in your Pantry Preprep Season the Shrimp with: Garlic Powder, Paprika, Cayenne pepper (or chilli powder) Salt, and a bit of oil Chop some Garlic (if you dont have it, garlic powder) and dice an Onion. Time to Cook. 1st. Cook the Shrimp for 4-5 Minutes, and set them aside. While thats happening, cook some Pasta of your choice 2nd. In the same Pot you cooked the Shrimp in. cook some diced Onion and garlic until soft. 3rd. Add the Gochujang Paste, stirr, and add the Cream, let it cook for a 2-3 minutes. then add some pasta water. 4th. Finally add back your Shrimp back in, and also add the Pasta you cooked! Note&#xD;if you like it cheesy, you can also add chese, but i dont like it much personally</description>
+    </item>
+    <item>
       <title>KFC (Korean Fried Chicken)</title>
       <link>http://localhost:1313/korean/fried-chicken/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/korean/fried-chicken/index.html</guid>
-      <description>hahah?</description>
-    </item>
-    <item>
-      <title>Placeholder</title>
-      <link>http://localhost:1313/korean/placeholder/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/korean/placeholder/index.html</guid>
-      <description>hahah?</description>
+      <description>Shopping list! Chicken Breast (thighs are hard to get here :( )) Flour Baking powder the Rest is prolly in your Pantry Seasoning the Chicken Season The Chicken with Salt, Pepper, Garlic, Paprika, and Chilli powder</description>
     </item>
   </channel>
 </rss>

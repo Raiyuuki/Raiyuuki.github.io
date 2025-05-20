@@ -34,10 +34,16 @@
     <loc>http://localhost:1313/categories/index.html</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/japanese/katsu-curry/index.html</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/filipino/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/indian/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/filipino/lumpia/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/index.html</loc>
