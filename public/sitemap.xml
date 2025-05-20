@@ -16,13 +16,7 @@
     <loc>http://localhost:1313/japanese/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/korean/fried-chicken/index.html</loc>
-  </url>
-  <url>
     <loc>http://localhost:1313/korean/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/korean/placeholder/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/sauces_n_condiments/index.html</loc>
@@ -40,7 +34,13 @@
     <loc>http://localhost:1313/filipino/index.html</loc>
   </url>
   <url>
+    <loc>http://localhost:1313/korean/gochujang-shrimp-cream-sauce/index.html</loc>
+  </url>
+  <url>
     <loc>http://localhost:1313/indian/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/korean/fried-chicken/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/filipino/lumpia/index.html</loc>

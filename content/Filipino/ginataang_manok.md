@@ -13,12 +13,11 @@ Get some Nice fatty Coconut milk, i'd say around 40% upwards. This dish, as well
 
 ## Shopping list!
 
-| Name of the Item | Amount |
-| --- | ---: |
-| Chicken Wings | 500g |
-| Coconut milk | 1 can |
-| Onions, Potatos, Carrots, Garlic, Ginger and Vinegar | ---|
-| Fish sauce | --- |
+
+1. Chicken Wings 
+2. Coconut milk 
+3. Onions, Potatos, Carrots (the veg)
+4. Garlic, Ginger and Vinegar (flavouring)
 
 ## A hearty Stew 
 

@@ -14,13 +14,13 @@ or at least a couple of hours
 
 ## Shopping list!
 
-| Name of the Item | Amount |
-| --- | ---: |
-| Chicken Breast / thigh | 500g |
-| Yogurt | --- |
-| Tomato Sauce | 400ml |
-| Heavy cream | 200ml |
-| Onions, lemons | ---|
+
+1. Chicken Breast / thigh 
+2. Yogurt 
+3. Tomato Sauce 
+4. Heavy cream 
+5. Onions
+6. Lemons / Lemon Juice
 
 ## Marinating the chicken 
 
