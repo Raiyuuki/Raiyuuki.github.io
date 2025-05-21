@@ -24,7 +24,11 @@ For the optional Sauce
 
 ###### 1st. Cut the Chicken into Equal pieces. Then season the Chicken with Salt, Pepper, Garlic, Paprika, and Chilli powder.
 
-###### 2nd. Prepare a rather thick batter. a 1:1 Ratio of Flour and Water. add a Tsp of Baking Power and the seasoning. you kind of want to aim for a thinner pancake batter 
+###### 2nd. Prepare a rather thick batter. a 1:1 Ratio of Flour and Water. add a Tsp of Baking Power and the seasoning. 
+
+{{% notice Note %}}
+You kind of want to aim for a batter, thats a bit thinner than pancake batter.
+{{% /notice %}}
 
 ###### 3rd. Mix the Chicken with the batter
 
@@ -34,7 +38,11 @@ For the optional Sauce
 
 ###### 1st. Heat up the Oil, if you are unsure if the Oil is ready, drop a piece of Flour from the container in, if it rises up in 3 seconds, its perfect! 
 
-###### 2nd. then add the Chicken in Batches, dont overcrowed the Chicken. stirr it in the beginning so it doesnt stick. they will be ready once they float up or after around 7 mins. when they are golden brown.
+###### 2nd. then add the Chicken in Batches, dont overcrowed the Chicken. stirr it in the beginning so it doesnt stick. they will be ready once they float up or after around 7 mins. Basically when they are golden brown!
+
+{{% notice Tip %}}
+If you are really unsure, just cut into it!
+{{% /notice %}}
 
 ## And thats it! serve it like that or with Rice! but....if you want a nice sauce to go with it! keep reading.
 

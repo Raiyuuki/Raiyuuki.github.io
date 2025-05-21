@@ -15,17 +15,24 @@ or at least a couple of hours
 ## Shopping list!
 
 
-1. Chicken Breast / thigh 
-2. Yogurt 
-3. Tomato Sauce 
-4. Heavy cream 
-5. Onions
-6. Lemons / Lemon Juice
+1. **Chicken Breast / thigh** 
+2. **Yogurt** 
+3. **Tomato Sauce**
+4. **Heavy cream**
+5. **Onions**
+6. **Lemons / Lemon Juice**
+
+## The Spices you might need to buy!
+
+###### **Tumeric, Coriander Powder, Cumin Powder, Garam Masala**
 
 ## Marinating the chicken 
 
 ##### Cut the chicken into small bite size pieces, put it into a bowl with:
+
 ###### Salt, Pepper, 1 Tsp Tumeric, 1 Tsp Garam Masala, 1-3 TBsp Chili Powder, 4 TBsp Yogurt, 1 Tsp Garlic powder, 1 Tsp Ginger powder, 1-2 Tsp of Lemon juice, and finally a bit of oil!
+
+
 ##### Mix the Chicken and the spices and put it in the Fridge
 
 {{% notice Tip %}}
@@ -52,8 +59,5 @@ add some salt / chili powder to your linking!
 
 ## done! serve over rice and enjoy
 
-| Spices used in the recepie |
-| :--- |
-| Garlic Powder, Ginger Powder, Coriander Powder, Garam Masala, Salt, Pepper, Chili Powder, Cumin Powder, Sugar |
 
 if you want a visual guide to the recepie the Channel [With Wendy and Shannon](https://www.youtube.com/watch?v=Cr5dn48vER8) has a great video.

@@ -23,11 +23,13 @@ This Recipe is for a simple but Flavourful cream sauce! its best with Shrimp, bu
 
 ###### 1st. Cook the Shrimp for 4-5 Minutes, and set them aside. While thats happening, cook some Pasta of your choice
 
-###### 2nd. In the same Pot you cooked the Shrimp in. cook some diced Onion and garlic until soft.
+###### 2nd. In the same Pot you cooked the Shrimp in. cook the diced Onion and some garlic until soft.
 
-###### 3rd. Add the Gochujang Paste, stirr, and add the Cream, let it cook for a 2-3 minutes. then add some pasta water.
+###### 3rd. Add the Gochujang Paste, stirr, and add the Cream, let it cook for a 2-3 minutes.
 
-###### 4th. Finally add back your Shrimp back in, and also add the Pasta you cooked!
+###### 4th. Add some pasta water to thicken.
+
+###### 5th. Finally add back your Shrimp back in, and also add the Pasta you cooked!
 
 {{% notice Note %}}
 if you like it cheesy, you can also add chese, but i dont like it much personally
@@ -35,5 +37,4 @@ if you like it cheesy, you can also add chese, but i dont like it much personall
 
 ###### 5th. Stir it around, coat everything nicely and serve it up! 
 
-
-
+## And thats it really! 
