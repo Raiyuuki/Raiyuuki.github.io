@@ -4,7 +4,7 @@ type = "Page"
 weight = 1
 +++
 {{% notice foreword %}}
-This is the Recipe i use to make Ginataang Manok, also called a Chicken Coconut Stew. As always, keep in mind i go alot by feeling! adjust it to your liking. The list of spices used will be at the very end if you dont have them at home!
+This is the Recipe i use to make Ginataang Manok, also called a Chicken Coconut Stew.
 {{% /notice %}}
 
 {{% notice Tip %}}
