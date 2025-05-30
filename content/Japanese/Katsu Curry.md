@@ -10,7 +10,7 @@ This Recipe is for a Japanese Katsu Curry. I use [Golden Curry](https://www.amaz
 
 1. Golden Curry Cubes.
 2. Veg (Potatos, Carrots, Onions)
-3. Garlic
+3. Garlic + Ginger
 4. Porkchops
 5. Panko
 6. Eggs
@@ -31,7 +31,7 @@ This Recipe is for a Japanese Katsu Curry. I use [Golden Curry](https://www.amaz
 
 ## Let's start with the curry
 
-###### 1st. In a pot add the Onions and 2 cloves of garlic and fry them until soft and fregrent. 
+###### 1st. In a pot add the Onions and 2 cloves of garlic, Ginger and fry them until soft and fregrent. 
 
 ###### 2nd. Add around 700-900 ml of water, depending on how thick you want it.
 
@@ -59,4 +59,8 @@ If you are not sure if the Temp is Correct, make a "tester" 1:1 flour and water,
 
 ### Give the Curry a final taste, adjust the seasoning if you need.
 
-## And thats it really! Serve it with rice and Enjoy
+## And thats it really! Serve it with rice and Enjoy.
+
+{{% notice style="red"%}}
+If you feel fancy, you can add Apples with the onions, it does give the dish an edge. But if you crave something simple and flavourful, there you go!
+{{% /notice %}}
